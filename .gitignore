@@ -4,6 +4,9 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 .idea
+allure-report
+allure-results
+
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
